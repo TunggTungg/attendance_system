@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONsO+ipgf4C9N7BsUeQtph0Hv+bEMuiUqKygFrcSkbZdmmiv8YUjPK2ry7A3i4hkNn++6azv88sAFVVuey0zTw==",
+  "success": true,
+  "projectFilePath": "Q:\\CDT_2_2021\\Thi_Giac_May\\Project_Giua_Ky\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

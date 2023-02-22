@@ -1,0 +1,70 @@
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\USER\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ExcelDataReader.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\USER\3D Objects\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\CsvHelper.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ExcelDataReader.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ExcelDataReader.DataSet.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+Q:\CDT_2_2021\Thi_Giac_May\Project_Giua_Ky\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll

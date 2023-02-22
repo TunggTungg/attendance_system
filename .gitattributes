@@ -1,0 +1,2 @@
+insightface/*.pth filter=lfs diff=lfs merge=lfs -text
+yolov5_face/*.pt filter=lfs diff=lfs merge=lfs -text
